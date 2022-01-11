@@ -6,7 +6,7 @@
 
 - 🔭 I recently worked on [Shoe-Good (Ecommerce)](https://shoe-good.vercel.app/)
 
-- 🌱 I’m currently planning to learn **Three.js**
+- 🌱 I’m currently learning **Web3 and Solidity**
 
 - 👨‍💻 All of my projects are available at [https://sohail-saha.in](https://sohail-saha.in)
 
