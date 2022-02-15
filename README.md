@@ -4,15 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-woof&label=Profile%20views&color=0e75b6&style=flat" alt="captain-woof" /> </p>
 
 
-- 🔭 I recently worked on [Shoe-Good (Ecommerce)](https://shoe-good.vercel.app/)
+- 🔭 I am currently working on a 3d landing page of a DeFi app.
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **Three.js, Fiber and Drei.**
 
 - 👨‍💻 All of my projects are available at [https://sohail-saha.in](https://sohail-saha.in)
 
 - 📝 I regularly write articles on [https://sohail-saha.in/blog](https://sohail-saha.in/blog)
 
-- 💬 Ask me about **react, next.js, material-ui, commerce.js, typescript, css, styled-components**
+- 💬 Ask me about **react, next.js, material-ui, commerce.js, typescript, css, three.js, html**
 
 - 📫 How to reach me: **sohail.saha.666@gmail.com**
 
