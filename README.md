@@ -6,7 +6,7 @@
 
 - 🔭 I am currently working on a 3d landing page of a DeFi app.
 
-- 🌱 I’m currently learning **Three.js, Fiber and Drei.**
+- 🌱 I’m currently learning **Solidity, ethers.js.**
 
 - 👨‍💻 All of my projects are available at [https://sohail-saha.in](https://sohail-saha.in)
 
