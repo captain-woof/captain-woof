@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, next.js, material-ui, commerce.js, typescript, css, three.js, html**
 
-- 📫 How to reach me: **sohail.saha.666@gmail.com**
+- 📫 How to reach me: **[sohail.saha.666@gmail.com](mailto:sohail.saha.666@gmail.com)**, **[Twitter](https://twitter.com/realCaptainWoof)**, **[LinkedIn](https://www.linkedin.com/in/sohail-saha/)**
 
 - 📄 See my resume: [https://drive.google.com/file/d/1se1QKQBUf4yjxSTzRHSfc4OBpB-W4dK2/view?usp=sharing](https://drive.google.com/file/d/1se1QKQBUf4yjxSTzRHSfc4OBpB-W4dK2/view?usp=sharing)
 
