@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-woof&label=Profile%20views&color=0e75b6&style=flat" alt="captain-woof" /> </p>
 
 
-- 🔭 I am currently working on a 3d landing page of a DeFi app.
+- 🔭 I am currently **looking for new opportunities**.
 
 - 🌱 I’m currently learning **Solidity, ethers.js.**
 
