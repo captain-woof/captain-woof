@@ -4,15 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-woof&label=Profile%20views&color=0e75b6&style=flat" alt="captain-woof" /> </p>
 
 
-- 🔭 I am currently **looking for new opportunities**.
+- 🔭 I am currently **working on developing an NFT marketplace**.
 
-- 🌱 I’m currently learning **Solidity, ethers.js.**
+- 🌱 I’m currently learning **Solidity, ethers.js, and Web3 in general.**
 
 - 👨‍💻 All of my projects are available at [https://sohail-saha.in](https://sohail-saha.in)
 
 - 📝 I regularly write articles on [https://sohail-saha.in/blog](https://sohail-saha.in/blog)
 
-- 💬 Ask me about **react, next.js, material-ui, commerce.js, typescript, css, three.js, html**
+- 💬 Ask me about **react, next.js, material-ui, charkra-ui, typescript, css, three.js, ethers.js, solidity**
 
 - 📫 How to reach me: **[sohail.saha.666@gmail.com](mailto:sohail.saha.666@gmail.com)**
 
