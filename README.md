@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-woof&label=Profile%20views&color=0e75b6&style=flat" alt="captain-woof" /> </p>
 
 
-- 🔭 I am currently **learning stuff**.
+- 🔭 I am currently **looking for a Web3 job**.
 
 - 🌱 I’m currently learning **Solidity, ethers.js, and Web3 in general.**
 
