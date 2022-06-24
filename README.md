@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-woof&label=Profile%20views&color=0e75b6&style=flat" alt="captain-woof" /> </p>
 
 
-- 🔭 I am currently **looking for a Web3 job**.
+- 🔭 I am currently **excited to start working @Polygon!**.
 
-- 🌱 I’m currently learning **Solidity, ethers.js, and Web3 in general.**
+- 🌱 I’m currently learning **more Web3 in general.**
 
 - 👨‍💻 All of my projects are available at [https://sohail-saha.in](https://sohail-saha.in)
 
