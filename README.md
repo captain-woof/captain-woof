@@ -6,13 +6,13 @@
 
 - 🔭 I am currently **working at Polygon!**.
 
-- 🌱 I’m currently learning **more Web3 in general.**
+- 🌱 I’m currently learning **smart contract security.**
 
 - 👨‍💻 All of my projects are available at [https://sohail-saha.in](https://sohail-saha.in)
 
 - 📝 I regularly write articles on [https://sohail-saha.in/blog](https://sohail-saha.in/blog)
 
-- 💬 Ask me about **react, next.js, material-ui, charkra-ui, typescript, css, three.js, ethers.js, solidity**
+- 💬 Ask me about **vue.js, react, next.js, material-ui, charkra-ui, typescript, css, three.js, ethers.js, solidity**
 
 - 📫 How to reach me: **[sohail.saha.666@gmail.com](mailto:sohail.saha.666@gmail.com)**
 
