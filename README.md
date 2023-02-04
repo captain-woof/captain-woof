@@ -12,8 +12,6 @@
 
 - 📝 I regularly write articles on [https://sohail-saha.in/blog](https://sohail-saha.in/blog)
 
-- 💬 Ask me about **vue.js, react, next.js, material-ui, charkra-ui, typescript, css, three.js, ethers.js, solidity**
-
 - 📫 How to reach me: **[sohail.saha.666@gmail.com](mailto:sohail.saha.666@gmail.com)**
 
 - 📄 See my resume: [https://drive.google.com/file/d/1se1QKQBUf4yjxSTzRHSfc4OBpB-W4dK2/view?usp=sharing](https://drive.google.com/file/d/1se1QKQBUf4yjxSTzRHSfc4OBpB-W4dK2/view?usp=sharing)
