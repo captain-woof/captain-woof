@@ -6,11 +6,11 @@
 
 - 🔭 I am currently **working at Polygon!**.
 
-- 🌱 I’m currently learning **smart contract security.**
+- 🌱 I’m currently building **Pebble Protocol** (on the side).
 
-- 👨‍💻 All of my projects are available at [https://sohail-saha.in](https://sohail-saha.in)
+- 👨‍💻 Some of my projects are available at [sohail-saha.in](https://sohail-saha.in)
 
-- 📝 I regularly write articles on [https://sohail-saha.in/blog](https://sohail-saha.in/blog)
+- 📝 I regularly write articles on [blog.sohail-saha.in](https://blog.sohail-saha.in/)
 
 - 📫 How to reach me: **[sohail.saha.666@gmail.com](mailto:sohail.saha.666@gmail.com)**
 
