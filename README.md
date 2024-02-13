@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sohail Saha</h1>
-<h3 align="center">A curious frontend developer</h3>
+<h3 align="center">Pursuing infosec</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-woof&label=Profile%20views&color=0e75b6&style=flat" alt="captain-woof" /> </p>
 
 
-- 🔭 I am currently **working at Polygon!**.
-
-- 🌱 I’m currently learning **Machine learning** (on the side).
+- 🔭 I am currently **working towards my first infosec cert!**.
 
 - 👨‍💻 Some of my projects are available at [sohail-saha.in](https://sohail-saha.in)
 
