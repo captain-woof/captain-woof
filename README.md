@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sohail Saha</h1>
-<h3 align="center">Aspiring Cybersecurity Professional</h3>
+<h3 align="center">Penetration Tester | Security Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=captain-woof&label=Profile%20views&color=0e75b6&style=flat" alt="captain-woof" /> </p>
 
 
-- 🔭 I am currently **looking for my first cybersecurity role!**.
+- 🔭 I am currently **looking for my next cybersecurity role!**.
 
 - 📝 I write blogs at [medium.com/@captain-woof](https://medium.com/@captain-woof)
 
