@@ -6,7 +6,7 @@
 
 - 🔭 I am currently **working as a Pentester at Optiv Security!**.
 
-- 📝 I write blogs at [medium.com/@captain-woof](https://medium.com/@captain-woof)
+- 📝 I write blogs at [captain-woof.com](https://captain-woof.com)
 
 - 📫 How to reach me: **[captainwoof.official@gmail.com](mailto:captainwoof.official@gmail.com)**
 
